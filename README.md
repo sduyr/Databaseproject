@@ -1,6 +1,6 @@
 # Databaseproject
 
-The aim of this project is to design and implement a simplied taxicab system (e.g. Uber).
+The aim of this project is to design and implement a simplified taxicab system (e.g. Uber).
 Students are expected to gain an understanding of all the steps involved in using a relational
 database for a practical application.
 
