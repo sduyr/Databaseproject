@@ -4,7 +4,7 @@ The aim of this project is to design and implement a simplied taxicab system (e
 Students are expected to gain an understanding of all the steps involved in using a relational
 database for a practical application.
 
-Some basic requirements of the system are specied below. You can add to these requirements
+Some basic requirements of the system are specified below. You can add to these requirements
 or make additional assumptions as needed.
  Vehicles are identified by a vehicle-id. Each vehicle of a specific type: sedan, SUV or
 van. A vehicle has a fixed capacity of passengers and luggage.
@@ -12,7 +12,7 @@ van. A vehicle has a fixed capacity of passengers and luggage.
 attributes such as name, gender, DOB, etc. are stored.
  Customers are identified by their email-id. Other attributes of the customer such as
 name, gender, DOB, etc. are stored.
- Customers can request a ride and a specic vehicle is assigned to the ride. The source
+ Customers can request a ride and a specific vehicle is assigned to the ride. The source
 location name, destination location name, start time of the ride and end time of the
 ride is stored. The dollar amount for a ride is also stored.
  Customers can provide feedback for a ride in numerical scores for safety, customer
